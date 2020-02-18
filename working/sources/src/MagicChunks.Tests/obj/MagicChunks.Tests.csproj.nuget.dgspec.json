@@ -1,0 +1,175 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks.Tests\\MagicChunks.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks.Tests\\MagicChunks.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks.Tests\\MagicChunks.Tests.csproj",
+        "projectName": "MagicChunks.Tests",
+        "projectPath": "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks.Tests\\MagicChunks.Tests.csproj",
+        "packagesPath": "C:\\Users\\Bharath.Reddy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bharath.Reddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks\\MagicChunks.csproj": {
+                "projectPath": "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks\\MagicChunks.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.abstractions": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "xunit.analyzers": {
+              "target": "Package",
+              "version": "[0.8.0, )"
+            },
+            "xunit.assert": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.console": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.core": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.console": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks\\MagicChunks.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks\\MagicChunks.csproj",
+        "projectName": "MagicChunks",
+        "projectPath": "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks\\MagicChunks.csproj",
+        "packagesPath": "C:\\Users\\Bharath.Reddy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bharath.Reddy\\Source\\Repos\\Github\\Kloset\\magic-chunks\\src\\MagicChunks\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bharath.Reddy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.3"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.3": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.3": {
+          "dependencies": {
+            "Microsoft.Build.Framework": {
+              "target": "Package",
+              "version": "[15.5.180, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "System.ValueTuple": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

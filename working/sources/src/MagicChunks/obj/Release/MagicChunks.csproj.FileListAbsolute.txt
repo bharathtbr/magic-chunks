@@ -1,0 +1,5 @@
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks\bin\Release\MagicChunks.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks\bin\Release\MagicChunks.pdb
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks\obj\Release\MagicChunks.csprojResolveAssemblyReference.cache
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks\obj\Release\MagicChunks.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks\obj\Release\MagicChunks.pdb

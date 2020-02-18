@@ -1,0 +1,16 @@
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\bin\Debug\netcoreapp2.0\MagicChunks.Tests.deps.json
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\bin\Debug\netcoreapp2.0\MagicChunks.Tests.runtimeconfig.json
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\bin\Debug\netcoreapp2.0\MagicChunks.Tests.runtimeconfig.dev.json
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\bin\Debug\netcoreapp2.0\MagicChunks.Tests.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\bin\Debug\netcoreapp2.0\MagicChunks.Tests.pdb
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\bin\Debug\netcoreapp2.0\MagicChunks.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\bin\Debug\netcoreapp2.0\MagicChunks.pdb
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\obj\Debug\netcoreapp2.0\MagicChunks.Tests.csprojAssemblyReference.cache
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\obj\Debug\netcoreapp2.0\MagicChunks.Tests.AssemblyInfoInputs.cache
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\obj\Debug\netcoreapp2.0\MagicChunks.Tests.AssemblyInfo.cs
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\obj\Debug\netcoreapp2.0\MagicChunks.Tests.csproj.CopyComplete
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\obj\Debug\netcoreapp2.0\MagicChunks.Tests.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Tests\obj\Debug\netcoreapp2.0\MagicChunks.Tests.pdb

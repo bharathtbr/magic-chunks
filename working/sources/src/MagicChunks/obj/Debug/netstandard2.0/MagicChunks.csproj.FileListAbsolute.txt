@@ -1,0 +1,7 @@
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks\bin\Debug\netstandard2.0\MagicChunks.deps.json
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks\bin\Debug\netstandard2.0\MagicChunks.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks\bin\Debug\netstandard2.0\MagicChunks.pdb
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks\obj\Debug\netstandard2.0\MagicChunks.AssemblyInfoInputs.cache
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks\obj\Debug\netstandard2.0\MagicChunks.AssemblyInfo.cs
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks\obj\Debug\netstandard2.0\MagicChunks.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks\obj\Debug\netstandard2.0\MagicChunks.pdb

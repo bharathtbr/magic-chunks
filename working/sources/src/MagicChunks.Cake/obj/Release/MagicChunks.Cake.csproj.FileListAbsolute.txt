@@ -1,0 +1,9 @@
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks.Cake\bin\Release\MagicChunks.Cake.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks.Cake\bin\Release\MagicChunks.Cake.pdb
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks.Cake\bin\Release\Cake.Core.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks.Cake\bin\Release\MagicChunks.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks.Cake\bin\Release\MagicChunks.pdb
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks.Cake\bin\Release\Cake.Core.xml
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks.Cake\obj\Release\MagicChunks.Cake.csprojResolveAssemblyReference.cache
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks.Cake\obj\Release\MagicChunks.Cake.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\working\sources\src\MagicChunks.Cake\obj\Release\MagicChunks.Cake.pdb

@@ -1,19 +1,19 @@
 ﻿{
-  "id": "985284E0-A7D2-4E4D-802C-0A516BFFAADF",
+  "id": "7248d0e2-348e-49d1-9897-d7a1a7f2eb0a",
   "name": "MagicChunks",
   "friendlyName": "Config transformation",
   "description": "Transform config file with Magic Chunks",
-  "helpMarkDown": "[More Information](https://github.com/sergeyzwezdin/magic-chunks)",
+  "helpMarkDown": "[More Information](https://github.com/bharathtbr/magic-chunks)",
   "category": "Utility",
   "visibility": [
     "Build",
     "Release"
   ],
-  "author": "Sergey Zwezdin",
+  "author": "Bharath T",
   "version": {
     "Major": 1,
-    "Minor": 0,
-    "Patch": 0
+    "Minor": 1,
+    "Patch": 1
   },
   "demands": [
     "DotNetFramework"

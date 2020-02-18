@@ -1,11 +1,11 @@
 {
     "manifestVersion": 1,
     "id": "magic-chunks",
-    "version": "1.0.0",
-    "name": "Magic Chunks",
+    "version": "1.1.0",
+    "name": "Old Magic Chunks",
     "description": "Easy to use tool to config transformations for JSON, XML and YAML.",
-    "publisher": "sergeyzwezdin",
-    "public": true,
+    "publisher": "bharathtbr",
+    "public": false,
     "icons": {
         "default": "images/icon.png",
         "large": "images/icon-large.png"
@@ -25,7 +25,7 @@
         "appsetings.json"
     ],
     "categories": [
-        "Build and release"
+        "Azure Pipelines"
     ],
     "targets": [
         {
@@ -73,16 +73,16 @@
     ],
     "links": {
         "getstarted": {
-            "uri": "https://github.com/sergeyzwezdin/magic-chunks/wiki/Visual-Studio-Team-System-extension"
+            "uri": "https://github.com/bharathtbr/magic-chunks/wiki/Visual-Studio-Team-System-extension"
         },
         "learn": {
-            "uri": "https://github.com/sergeyzwezdin/magic-chunks/wiki"
+            "uri": "https://github.com/bharathtbr/magic-chunks/wiki"
         },
         "support": {
-            "uri": "https://github.com/sergeyzwezdin/magic-chunks/issues"
+            "uri": "https://github.com/bharathtbr/magic-chunks/issues"
         },
         "license": {
-            "uri": "https://github.com/sergeyzwezdin/magic-chunks/blob/master/LICENSE"
+            "uri": "https://github.com/bharathtbr/magic-chunks/blob/master/LICENSE"
         }
     },
     "branding": {

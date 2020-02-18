@@ -1,0 +1,11 @@
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\bin\Debug\netstandard1.6\MagicChunks.Cake.deps.json
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\bin\Debug\netstandard1.6\MagicChunks.Cake.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\bin\Debug\netstandard1.6\MagicChunks.Cake.pdb
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\bin\Debug\netstandard1.6\MagicChunks.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\bin\Debug\netstandard1.6\MagicChunks.pdb
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\obj\Debug\netstandard1.6\MagicChunks.Cake.csprojAssemblyReference.cache
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\obj\Debug\netstandard1.6\MagicChunks.Cake.AssemblyInfoInputs.cache
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\obj\Debug\netstandard1.6\MagicChunks.Cake.AssemblyInfo.cs
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\obj\Debug\netstandard1.6\MagicChunks.Cake.csproj.CopyComplete
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\obj\Debug\netstandard1.6\MagicChunks.Cake.dll
+C:\Users\Bharath.Reddy\Source\Repos\Github\Kloset\magic-chunks\src\MagicChunks.Cake\obj\Debug\netstandard1.6\MagicChunks.Cake.pdb
