@@ -115,8 +115,7 @@
       "helpMarkDown": "JSON representation of transformation.",
       "properties": {
         "resizable": "true",
-        "rows": "10",
-        "maxLength": "2500"
+        "rows": "10"
       },
       "groupName": "transformation",
       "visibleRule": "transformationType = json"

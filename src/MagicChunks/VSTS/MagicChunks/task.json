@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "7248d0e2-348e-49d1-9897-d7a1a7f2eb0a",
   "name": "MagicChunks",
   "friendlyName": "Config transformation",
@@ -115,8 +115,7 @@
       "helpMarkDown": "JSON representation of transformation.",
       "properties": {
         "resizable": "true",
-        "rows": "10",
-        "maxLength": "2500"
+        "rows": "10"
       },
       "groupName": "transformation",
       "visibleRule": "transformationType = json"
